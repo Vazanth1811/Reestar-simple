@@ -15,7 +15,7 @@ A basic restaurant website built using **HTML** and **CSS**, providing a clean a
 - **CSS3**  
 
 ## Live Demo  
-[View the live site](#) _(Replace with your actual link)_  
+[View the live site](https://vazanth1811.github.io/Reestar-simple/) _(Replace with your actual link)_  
 
 ## Customization  
 You can modify the content, colors, and layout by editing the HTML and CSS files.  
